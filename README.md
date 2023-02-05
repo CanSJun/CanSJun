@@ -13,6 +13,11 @@
   <img src="https://img.shields.io/badge/Ocaml-EC6813?style=plastic&logo=ocaml&logoColor=black">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=black">
 
+<b>⌨️ Main Language</b>
+<img src="https://img.shields.io/badge/c-3CBDB1?style=plastic&logo=c&logoColor=black">
+  <img src="https://img.shields.io/badge/c++-4574E0?style=plastic&logo=cplusplus&logoColor=black">
+</br>
+
 <b>🔨 Tool </b> <img src="https://img.shields.io/badge/Visualstudio-5C2D91?style=plastic&logo=Visualstudio&logoColor=black">
 <img src="https://img.shields.io/badge/Visualstudio_Code-007ACC?style=plastic&logo=Visualstudiocode&logoColor=black">
 <img src="https://img.shields.io/badge/VirtualBox-183A61?style=plastic&logo=virtualbox&logoColor=black">
