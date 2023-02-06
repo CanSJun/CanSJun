@@ -24,9 +24,6 @@
 <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=plastic&logo=Eclipseide&logoColor=black">
 
 
-<b> 🏢 Work Experience </b></br>
-(주)삼영시스템공조 (2016.02.01 ~ 2017.05.03)
-
 <b>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CanSJun&show_icons=true&theme=radical) 
