@@ -26,13 +26,13 @@
 
 <b>
   
-[![CanSJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=CanSJun&show_icons=true&theme=radical)]()
+[![CanSjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=CanSjun&show_icons=true&theme=radical)]()
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sj1191)](https://solved.ac/sj1191)
   
 </b>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CanSJun&langs_count=10&layout=compact)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CanSjun&langs_count=10&layout=compact)]()
 <!--
 **CanSJun/CanSJun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
