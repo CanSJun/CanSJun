@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=black">
   <img src="https://img.shields.io/badge/eclipseide-2C2255?style=plastic&logo=eclipseide&logoColor=black">
   <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=black">
-  <img src="https://img.shields.io/badge/unity-FFFFFF?style=plastic&logo=unity&logoColor=black">
+  
   
 <b>⌨️ Main Language</b>
 <img src="https://img.shields.io/badge/c-3CBDB1?style=plastic&logo=c&logoColor=black">
@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/Visualstudio_Code-007ACC?style=plastic&logo=Visualstudiocode&logoColor=black">
 <img src="https://img.shields.io/badge/VirtualBox-183A61?style=plastic&logo=virtualbox&logoColor=black">
 <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=plastic&logo=Eclipseide&logoColor=black">
-
+<img src="https://img.shields.io/badge/unity-FFFFFF?style=plastic&logo=unity&logoColor=black">
 
 <b>
   
