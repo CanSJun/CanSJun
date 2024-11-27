@@ -4,7 +4,7 @@
 
 <b>📧 Email</b> sijun1191@naver.com , hyenho28@gmail.com
 
-<b>🅱️ Blog </b> https://blog.naver.com/sijun1191
+<b>🅱️ Blog </b> [https://blog.naver.com/sijun1191](https://sijun1191.tistory.com/)
   
 <b> ✈️ Military Service </b> <a href="https://namu.wiki/w/%EC%A0%9C20%EC%A0%84%ED%88%AC%EB%B9%84%ED%96%89%EB%8B%A8">Administration specialist of 20th Fighter Wing'Medical corps</a>, Honorably Discharged.
 
@@ -27,7 +27,6 @@
 <b>
   
 [![CanSjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=CanSjun&show_icons=true&theme=radical)]()
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sj1191)](https://solved.ac/sj1191)
   
 </b>
 
