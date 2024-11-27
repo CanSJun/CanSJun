@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/c++-4574E0?style=plastic&logo=cplusplus&logoColor=black">
   <img src="https://img.shields.io/badge/Ocaml-EC6813?style=plastic&logo=ocaml&logoColor=black">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=black">
+  <img src="https://img.shields.io/badge/eclipseide-2C2255?style=plastic&logo=eclipseide&logoColor=black">
   <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=black">
   <img src="https://img.shields.io/badge/unity-FFFFFF?style=plastic&logo=unity&logoColor=black">
   
